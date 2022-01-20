@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20there!👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=You%20can%20Profile%20or%20any%20Repo%20like%20sukhyunil1@gmail.com&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20there!👋&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 </p>
 You can reach me via eamil: sukhyunil1@gmail.com
 <h3 align="center">🛠 Tech Stack 🛠</h3>

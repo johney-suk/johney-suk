@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20there!👋&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 </p>
-You can reach me via eamil: sukhyunil1@gmail.com
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>

@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/imeanhyunil/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sukhyunil19@gmail.com"/></a>
 </p>
-<br> 
+<br> <br> 
 <br> <br>
 
 <p align="center">
